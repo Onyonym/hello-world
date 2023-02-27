@@ -1,2 +1,3 @@
 # hello-world
 My first repository on GitHub
+I love :cofee: :pizza:, and a :dancer:
